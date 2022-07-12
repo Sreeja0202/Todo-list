@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Login page started */
+
+body
+{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+
+.login
+{
+    float: right;
+    border: 2px solid black;
+    background-color: grey;
+    height: 17em;
+    margin-top: 2%;
+    margin-right: 4%;
+    padding: 15px;
+  }
+.login h2{
+    text-align: center;
+}
+
+.login input
+{
+    height: 1.5em;
+}
+.login #ok
+{
+    width: 100%;
+    background-color: skyblue;
+    height: 1.8em;
+    border: 1px solid dodgerblue;
+}
+.registration
+{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.famous{
+    background-image: url("C:\Users\SREEJA\OneDrive\Desktop\ICT - Full Stack Development\Evaluvation Projects\Kerala-Tourism\famous destinations\munroe island.jpg");
+}

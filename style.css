@@ -1,0 +1,43 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+.mainbody
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container1
+{
+    width: 60%;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    height: 60%;
+    position: absolute;
+    float: left;
+    max-width: 500px;
+    
+}
+.container2
+{
+    display: inline;
+    background-color:#3d1e4f;
+    float: right;
+    margin-top: 4rem;
+    margin-right: 4rem;
+    position: relative;
+    width: 400px;
+    color: white;
+    padding: 2rem;
+    
+    
+}
+.button
+{
+    align-self: center;
+}
